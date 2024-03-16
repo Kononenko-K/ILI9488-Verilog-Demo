@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "CS",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "MOSI",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "clk_200k",
+					"strict" : false
+				},
+				{
+					"name" : "clk_4m",
+					"strict" : false
+				},
+				{
+					"name" : "DC",
+					"strict" : false
+				},
+				{
+					"name" : "CLK_50M",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

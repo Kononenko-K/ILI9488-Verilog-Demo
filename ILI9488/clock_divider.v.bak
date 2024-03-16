@@ -1,0 +1,22 @@
+ module clock_divider (
+	input wire clk_in,
+	output reg out1,
+	output reg out2
+ );
+ 
+  parameter DIV1 = 10;
+  parameter DIV2 = 250;
+  reg [31:0] counter = 32'b0;
+  
+  always @ (posedge clk_in)
+  begin
+	 counter <= counter + 32'b1;
+	 case(counter)
+	 0 : output_color <= 16'hf800;
+	 1 : output_color <= 16'h07e0;
+	 2 : output_color <= 16'h001f;
+	 3 : output_color <= 16'h0000;
+	 endcase
+  end
+ 
+ endmodule

@@ -1,0 +1,11 @@
+ module bus_or (
+ input wire [7:0] data_in1,
+ input wire [7:0] data_in2,
+ output reg [7:0] data_out = 8'b0
+ );
+ 
+ always @* begin
+	data_out <= data_in1|data_in2;
+ end
+ 
+ endmodule

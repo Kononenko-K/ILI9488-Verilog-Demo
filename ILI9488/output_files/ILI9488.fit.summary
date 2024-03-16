@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jan 21 21:00:52 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : ILI9488
+Top-level Entity Name : ILI9488
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 577 / 6,272 ( 9 % )
+    Total combinational functions : 569 / 6,272 ( 9 % )
+    Dedicated logic registers : 187 / 6,272 ( 3 % )
+Total registers : 187
+Total pins : 8 / 92 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

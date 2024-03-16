@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at SPI_Serialiser.v(16): always construct contains both blocking and non-blocking assignments File: /home/pc1/Documents/fpga_projects/ILI9488/SPI_Serialiser.v Line: 16
+Warning (10268): Verilog HDL information at color_generator.v(19): always construct contains both blocking and non-blocking assignments File: /home/pc1/Documents/fpga_projects/ILI9488/color_generator.v Line: 19
