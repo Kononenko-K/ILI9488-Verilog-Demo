@@ -21,3 +21,6 @@ Display connection guide:
 |CLK                 |PIN_28     |
 |D/C                 |PIN_33     |
 |CS                  |PIN_38     |
+
+## License
+- The **Verilog HDL code** in this project is licensed under the [MIT License](LICENSE), with the exception of portions of the HDL code that are copyrighted by Intel Corporation; such portions are subject to the original licensing terms provided by Intel Corporation.
